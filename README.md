@@ -1,4 +1,4 @@
-# Análise de um conjunto de vendas onlinea través do Power BI 📊
+# Análise de um conjunto de vendas online través do Power BI 📊
 
 Este repositório contém a análise de um conjunto de vendas online através do Power BI.
 
